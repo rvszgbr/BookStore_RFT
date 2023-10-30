@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="Eo_Central" />
+      <option name="name" value="Eo_Central" />
+      <option name="url" value="https://arm1s11-eiffel052.eiffel.gic.ericsson.se:8443/nexus/content/groups/eo-repositories/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-onap-release" />
+      <option name="name" value="nexus-onap-release" />
+      <option name="url" value="https://nexus.onap.org/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ICM" />
+      <option name="name" value="ICM" />
+      <option name="url" value="http://maven.icm.edu.pl/artifactory/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="prototype" />
+      <option name="name" value="prototype" />
+      <option name="url" value="http://eselivm2v238l.lmera.ericsson.se:8081/nexus/content/repositories/prototype" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aia" />
+      <option name="name" value="aia" />
+      <option name="url" value="https://arm1s11-eiffel004.eiffel.gic.ericsson.se:8443/nexus/content/groups/aia-repositories" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-onap-public" />
+      <option name="name" value="nexus-onap-public" />
+      <option name="url" value="https://nexus.onap.org/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonom" />
+      <option name="name" value="sonom-artifactory" />
+      <option name="url" value="http://ieatrcxb3788.athtem.eei.ericsson.se:8081/artifactory/sonom-virtual" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-uk-nonproxy" />
+      <option name="name" value="central-uk-nonproxy" />
+      <option name="url" value="http://uk.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Confluent" />
+      <option name="name" value="Confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-onap-staging" />
+      <option name="name" value="nexus-onap-staging" />
+      <option name="url" value="https://nexus.onap.org/content/repositories/staging/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eSON_Central" />
+      <option name="name" value="eSON_Central" />
+      <option name="url" value="https://arm1s11-eiffel112.eiffel.gic.ericsson.se:8443/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-proxy-fallback" />
+      <option name="name" value="central-proxy-fallback" />
+      <option name="url" value="http://eselivm2v214l.lmera.ericsson.se:8081/nexus/content/groups/ericsson" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-onap-snapshot" />
+      <option name="name" value="nexus-onap-snapshot" />
+      <option name="url" value="https://nexus.onap.org/content/repositories/snapshots/" />
+    </remote-repository>
+  </component>
+</project>
