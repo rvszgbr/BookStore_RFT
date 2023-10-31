@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="bookstore-back" options="-endorseddirs &quot;C:\Users\eajtale\OneDrive - Ericsson\Documents\egyetem\A rendszerfejlesztés technológiája és módszertana\bookstore-back final version\Gábor\bookstore-back\target/endorsed&quot;" />
+      <module name="bookstore-back" options="-endorseddirs &quot;C:\Users\eajtale\OneDrive - Ericsson\Documents\egyetem\A rendszerfejlesztés technológiája és módszertana\bookstore-back final version\bookstore-remote\BookStore_RFT\target/endorsed&quot;" />
       <module name="bookstore-back - splitted" options="-endorseddirs &quot;C:\Users\eajtale\OneDrive - Ericsson\Documents\egyetem\A rendszerfejlesztés technológiája és módszertana\bookstore-back final version\bookstore-back - splitted\target/endorsed&quot;" />
     </option>
   </component>

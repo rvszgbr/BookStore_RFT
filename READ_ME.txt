@@ -29,6 +29,8 @@ The front-end documentation can be found in the root folder of the bookstore-fro
 
 Note: In order to reach the database from the front-end application, the back-end application must be running.
 
+The CI-CD pipeline failes because the Wild fly deployment cannot be installed in the Github actions workflow.
+
 Contributors:
 
 - Ajtai Alex
