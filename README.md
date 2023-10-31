@@ -33,8 +33,8 @@ The CI-CD pipeline failes because the Wild fly deployment cannot be installed in
 
 Contributors:
 
-- Ajtai Alex
+- Ajtai Alex (neo3600) NEPTUN kód: IJG5H1
 
-- Rivasz Gábor
+- Rivasz Gábor (rvszgbr) NEPTUN kód: U0W5J8
 
-- Kicska Bence
+- Kicska Bence (benceee1204) NEPTUN kód: L26116
